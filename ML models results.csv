@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Naive Bayes,0.85935,0.86,0.86,0.86
+Random Forest,0.847,0.85,0.85,0.85
+k-NN,0.73425,0.74,0.73,0.73
+Gradient Boosting,0.80795,0.81,0.81,0.81
